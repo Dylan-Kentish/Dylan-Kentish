@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Kentish&show_icons=true& theme=gradient&include_all_commits=true&count_private=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Kentish&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"
     width="96%" 
     alt="Dylan-Kentish activity graph">
 </p>
