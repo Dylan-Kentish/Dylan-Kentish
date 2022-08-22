@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Dylan-Kentish&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
     width="96%" 
-    alt="Dylan-Kentish github-readme-streak-stats"/>
+    alt="Dylan-Kentish streak stats"/>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Kentish&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"
     width="96%" 
-    alt="Dylan-Kentish activity graph">
+    alt="Dylan-Kentish stats">
 </p>
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kentish&layout=compact&langs_count=7&theme=gradient"
     width="96%" 
-    alt="Dylan-Kentish activity graph">
+    alt="Dylan-Kentish most used languages">
 </p>
