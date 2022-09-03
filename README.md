@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Dylan Kentish 👋
 
-<!-- Add contact information -->
-
 <!-- What am I doing -->
+### What am I working on? 
+- 🌱 Learning Golang.
+- 📝 Writing a GraphQL Server.
+- 🛠️ Builing a .NET Maui app.
+- 🤖 Writing a competitve MEV bot.
+- 👀 Improving my portfolio & online presence.
+
+<!-- Add contact information -->
+### How to contact me?
+- [LinkedIn](https://www.linkedin.com/in/dylan-kentish-b75963203/)
+- [Twitter](https://twitter.com/DylanKentish)
 
 <!-- Basic description -->
 
@@ -39,8 +48,9 @@ Here are some ideas to get you started:
     alt="Dylan-Kentish stats">
 </p>
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kentish&layout=compact&langs_count=7&theme=gradient"
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kentish&layout=compact&langs_count=7&count_private=true&theme=gradient"
     width="96%" 
     alt="Dylan-Kentish most used languages">
+    
 </p>
