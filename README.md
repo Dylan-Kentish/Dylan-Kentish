@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### What am I working on? 
 - 🌱 Learning [Go](https://go.dev/).
 - 📝 Writing a [GraphQL](https://graphql.org/) Server.
-- 🛠️ Builing a [.NET Maui](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) app.
-- 🤖 Writing a competitve [MEV bot](https://obaidkavt.medium.com/mev-the-ultimate-financial-battleground-where-adversaries-come-to-play-c73f45ce691c).
+- 🛠️ Creating a [.NET Maui](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) app.
+- 🤖 Building a competitve [MEV bot](https://obaidkavt.medium.com/mev-the-ultimate-financial-battleground-where-adversaries-come-to-play-c73f45ce691c).
 - 👀 Improving my portfolio & online presence.
 
 <!-- Add contact information -->
