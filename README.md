@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <!-- What am I doing -->
 ### What am I working on? 
-- 🌱 Learning Golang.
-- 📝 Writing a GraphQL Server.
-- 🛠️ Builing a .NET Maui app.
-- 🤖 Writing a competitve MEV bot.
+- 🌱 Learning [Go](https://go.dev/).
+- 📝 Writing a [GraphQL](https://graphql.org/) Server.
+- 🛠️ Builing a [.NET Maui](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) app.
+- 🤖 Writing a competitve [MEV bot](https://obaidkavt.medium.com/mev-the-ultimate-financial-battleground-where-adversaries-come-to-play-c73f45ce691c).
 - 👀 Improving my portfolio & online presence.
 
 <!-- Add contact information -->
 ### How to contact me?
-- [LinkedIn](https://www.linkedin.com/in/dylan-kentish-b75963203/)
-- [Twitter](https://twitter.com/DylanKentish)
+- [LinkedIn](https://www.linkedin.com/in/dylan-kentish-b75963203/): Join my network! 
+- [Twitter](https://twitter.com/DylanKentish): Come say Hi.
 
 <!-- Basic description -->
 
