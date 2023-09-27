@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <!-- What am I doing -->
 ### What am I working on? 
-- 🌱 Learning [Go](https://go.dev/).
-- 📝 Writing a [GraphQL](https://graphql.org/) Server.
-- 🛠️ Creating a [.NET Maui](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) app.
-- 🤖 Building a competitve [MEV bot](https://obaidkavt.medium.com/mev-the-ultimate-financial-battleground-where-adversaries-come-to-play-c73f45ce691c).
-- 👀 Improving my portfolio & online presence.
+- 🌱 Director [@BuiltLabs](https://twitter.com/BuiltLabs).
+- 🛠️ Full-stack Software Engineer [@SappySeals](https://twitter.com/SappySealsNFT).
+- 👀 Building something new [@Tokumeis](https://twitter.com/TokumeisWeb3)
 
 <!-- Add contact information -->
 ### How to contact me?
@@ -29,24 +27,6 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/DylanKentish): Come say Hi.
 
 <!-- Basic description -->
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dylan-Kentish&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    width="96%" 
-    alt="Dylan-Kentish streak stats"/>
-</p>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Dylan-Kentish&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" 
-    width="96%" 
-    alt="Dylan-Kentish activity graph">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Kentish&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"
-    width="96%" 
-    alt="Dylan-Kentish stats">
-</p>
 
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kentish&layout=compact&langs_count=7&count_private=true&theme=gradient"
