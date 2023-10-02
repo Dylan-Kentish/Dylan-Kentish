@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- What am I doing -->
 ### What am I working on? 
-- 🌱 Director [@BuiltLabs](https://twitter.com/BuiltLabs).
-- 🛠️ Full-stack Software Engineer [@SappySeals](https://twitter.com/SappySealsNFT).
+- 🌱 Director [@BuiltLabs](https://twitter.com/BuiltLabs)
+- 🛠️ Full-stack Software Engineer [@SappySeals](https://twitter.com/SappySealsNFT)
 - 👀 Building something new [@Tokumeis](https://twitter.com/TokumeisWeb3)
 
 <!-- Add contact information -->
